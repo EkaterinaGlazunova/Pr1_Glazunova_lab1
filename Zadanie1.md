@@ -32,7 +32,7 @@ function task2()
 var x = prompt('Введите x', ''); 
 var y = prompt('Введите y', '');
 var min;  
-if (y>x)
+if (y<x)
 { min= y;
  
 }
